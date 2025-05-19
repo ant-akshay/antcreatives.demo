@@ -1,4 +1,4 @@
 # antcreatives.demo
 sample repo
 </br>
-Author - Akshay Asthana
+Author - Akshay Asthana (SSIQ)
